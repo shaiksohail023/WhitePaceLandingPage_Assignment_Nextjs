@@ -4,7 +4,7 @@ A production-quality Next.js landing page built for the Takamul Technologies Fro
 
 ## Live Demo
 
-> Deploy to Vercel and add URL here
+> Vercel Link: https://white-pace-landing-page-assignment.vercel.app/
 
 ## Tech Stack
 
